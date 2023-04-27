@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 맑은고딕;
+    color: #555;
+    font-size: 12px;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+img {
+    border: 0;
+}
+
+/* a:link,a:hover,a:active,a:visited{} */
+a {
+    text-decoration: none;
+    color: #555;
+}
